@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="data_mine.sql" type="Native" />
+      <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern="data_mine" type="PLAIN_TEXT" />
+      <mapping pattern="log-1548228626483-1548228686483" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="installJar" type="PLAIN_TEXT" />
+      <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="jserialized" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
