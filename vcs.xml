@@ -14,9 +14,13 @@
           <option name="url" value="git@121.196.201.111:bdp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EasySpringBoot/ylazy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\work3" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
