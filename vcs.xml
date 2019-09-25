@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/JThink/teemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/TonySoyeon/GaoxiShangCheng.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github" />
