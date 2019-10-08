@@ -6,6 +6,9 @@
         <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
         <LogHighlightingPattern pattern="^\s*ERROR?\s*$" action="HIGHLIGHT_LINE" fg="-57329" stripe="true" />
+        <LogHighlightingPattern pattern="^WARN$" fg="-30964" stripe="true" />
+        <LogHighlightingPattern pattern="^ERROR$" fg="-61150" stripe="true" />
+        <LogHighlightingPattern pattern="^INFO$" fg="-14549229" stripe="true" />
       </list>
     </Patterns>
     <parsing>
