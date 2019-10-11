@@ -1,0 +1,14 @@
+<templateSet group="MyOwn">
+  <template name="F" value="***********************************************************&#10;  * @Description: $description$&#10;  * @Param: $param$&#10;  * @Return: $return$&#10;  * @Author: zhaoyu&#10;  * @Date: $date$&#10;  * @Time: $time$&#10;  * @Version: $version$&#10;***********************************************************/        &#10;  " description="create function" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="version" expression="variableOfType(Type)" defaultValue="1.0" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
