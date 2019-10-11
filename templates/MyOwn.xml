@@ -11,4 +11,13 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
+  <template name="T" value="/TODO: $date$ : $time$ $user$" description="添加TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
 </templateSet>
