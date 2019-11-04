@@ -6,9 +6,17 @@
           <option name="url" value="https://github.com/alibaba/spring-cloud-alibaba.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.aliyun.com/nari/decompileTempo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.aliyun.com" />
+          <option name="userName" value="zyazxr" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github\alibaba" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\work3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
