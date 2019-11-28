@@ -22,9 +22,13 @@
           <option name="url" value="http://git.lug.ustc.edu.cn" />
           <option name="userName" value="zhaoyu4@sgepri.sgcc.com.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/hongdada/spring-boot-apollo-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\work3\bdp_gitlab_ustc" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\work3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
