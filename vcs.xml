@@ -26,6 +26,10 @@
           <option name="url" value="https://gitee.com/hongdada/spring-boot-apollo-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EasySpringBoot/ylazy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\work3" />
