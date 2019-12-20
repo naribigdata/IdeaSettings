@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/intofirehr1/zgrs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/macrozheng/mall.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github" />
