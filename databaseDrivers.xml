@@ -125,6 +125,9 @@
       <library>
         <url>file://D:/tmp/Dm7JdbcDriver-7.1.6.48-jdk17.jar</url>
       </library>
+      <library>
+        <url>file://D:/tmp/testInstallLib/Dm7JdbcDriver-7.1.6.48-jdk17.jar</url>
+      </library>
     </driver>
   </component>
 </application>
