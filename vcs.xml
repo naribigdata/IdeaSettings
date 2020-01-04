@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/sjsdfg/dl4j-tutorials" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/sjsdfg/dl4j-tutorials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github" />
