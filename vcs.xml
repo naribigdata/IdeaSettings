@@ -66,9 +66,13 @@
           <option name="url" value="https://git.lug.ustc.edu.cn/Relph1119/bdp-mine.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zyazxr/zyazxr.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github\gitedu" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github\io" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
