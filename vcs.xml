@@ -94,9 +94,13 @@
           <option name="url" value="ssh://git@172.28.202.14:10122/lihao2/bdp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.aliyun.com/41984-nanri/test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\vpndbp" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\aliyu" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
