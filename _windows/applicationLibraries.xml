@@ -1,5 +1,42 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 (bdp) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" />
+        <root url="file://$USER_HOME$/IdeaProjects/nari.work/vpndbp/bdp/process/mine/dl/venv" />
+        <root url="file://$USER_HOME$/IdeaProjects/nari.work/vpndbp/bdp/process/mine/dl/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pip-20.0.2-py3.7.egg" />
+        <root url="file://$USER_HOME$/PycharmProjects/flask-tutorial" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-450321847" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" />
+        <root url="file://$USER_HOME$/IdeaProjects/nari.work/vpndbp/bdp/process/mine/dl/venv" />
+        <root url="file://$USER_HOME$/IdeaProjects/nari.work/vpndbp/bdp/process/mine/dl/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/pip-20.0.2-py3.7.egg" />
+        <root url="file://$USER_HOME$/PycharmProjects/flask-tutorial" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-450321847" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
