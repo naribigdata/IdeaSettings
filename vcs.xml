@@ -98,9 +98,13 @@
           <option name="url" value="https://code.aliyun.com/41984-nanri/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/elunez/eladmin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work\aliyu" />
+    <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
