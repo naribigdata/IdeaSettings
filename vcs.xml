@@ -166,6 +166,10 @@
           <option name="url" value="https://github.com/brianway/springmvc-mybatis-learning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mxg133/learnforJDBC.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work" />
