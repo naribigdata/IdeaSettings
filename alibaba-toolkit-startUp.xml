@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/github/io/zyazxr.github.io" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/nari.work/JDBCMybatis" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/nari.work/learnforJDBC" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/IdeaProjects/nari.work/spring-boot-starter" startUpFlag="FIRST" />
