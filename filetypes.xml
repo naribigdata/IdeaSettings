@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="templates" type="FTL" />
+      <mapping ext="tfl" type="FTL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
