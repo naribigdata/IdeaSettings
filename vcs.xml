@@ -210,6 +210,10 @@
           <option name="url" value="https://github.com/kobeyk/seata-spring-boot-demos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nodejsnewbie/IdeaProjects.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work" />
