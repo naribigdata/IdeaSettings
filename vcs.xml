@@ -238,6 +238,10 @@
           <option name="url" value="https://github.com.cnpmjs.org/forezp/matrix-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codechina.csdn.net/mirrors/forezp/springcloud-book.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zhaoy\IdeaProjects\nari.work" />
