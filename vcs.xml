@@ -108,7 +108,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://172.28.202.14:10080" />
-          <option name="userName" value="zhaoyu4@sgepri.sgcc.com.cn" />
+          <option name="userName" value="zhaoyu4" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="ssh://git@172.28.202.14:10122/lihao2/bdp-static.git" />
