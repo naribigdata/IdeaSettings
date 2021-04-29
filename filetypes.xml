@@ -4,6 +4,7 @@
       <mapping pattern="templates" type="FTL" />
       <mapping ext="tfl" type="FTL" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="application_1618892504551_0016" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="avro" type="PLAIN_TEXT" />
